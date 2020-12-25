@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='README'/>
+        <page name='Combinations'/>
+        <page name='Permutations'/>
+        <page name='Product'/>
+        <page name='Chunked'/>
+        <page name='Chain'/>
+        <page name='Cycle'/>
+        <page name='Unique'/>
+        <page name='Random Sampling'/>
+        <page name='Indexed'/>
+        <page name='Partition'/>
+        <page name='Rotate'/>
+    </pages>
+</playground>
