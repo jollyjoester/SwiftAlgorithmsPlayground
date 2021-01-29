@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/jollyjoester/Desktop/TrySwiftAlgorithms/swift-algorithms-playground.playground">
+      location = "group:swift-algorithms-playground.playground">
    </FileRef>
    <FileRef
       location = "group:swift-algorithms">
