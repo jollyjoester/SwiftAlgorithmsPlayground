@@ -9,7 +9,7 @@
  * [Chain](Chain)
  * [Cycle](Cycle)
  * [Unique](Unique)
- * [Random Sampling](Random Sampling)
+ * [Random Sampling](Random\ Sampling)
  * [Indexed](Indexed)
  * [Partition](Partition)
  * [Rotate](Rotate)
